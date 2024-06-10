@@ -1,0 +1,19 @@
+#heading\ one{
+    text-align: center;
+    color: #ff001e;
+
+}
+#heading\ two{
+    margin-right: 200px;
+    color: #ff001e;
+    font-style: italic;
+}
+.paragraph1{
+    font-style: italic;
+    font-weight: bold;
+
+}
+.paragraph2{
+    font-weight: bold;
+    font-style: italic;
+}

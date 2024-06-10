@@ -1,0 +1,23 @@
+h1{
+    color: orangered;
+    font-style: italic;
+    margin-left: 150px;
+
+}
+h2{
+    text-align: center;
+    color: orangered;
+
+}
+p{
+    font-style: italic;
+    margin-left: 150px;
+    color: white;
+}
+body{
+    background-color: #343c3e;
+}
+img{
+    border-radius: 100px;
+}
+

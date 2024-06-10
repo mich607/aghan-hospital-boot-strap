@@ -1,0 +1,23 @@
+h1{
+    color: crimson;
+    font-size: 40px;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1:hover{ background-color: aquamarine}
+p{
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+
+
+}
+h2:hover{ background-color: #1e48d2;
+}
